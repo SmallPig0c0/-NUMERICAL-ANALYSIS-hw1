@@ -1,4 +1,4 @@
-# Numerical Analysis Homework — Problem 7
+# Numerical Analysis Homework1 — Problem 7
 
 ## 組員資料
 
